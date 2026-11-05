@@ -1,0 +1,8 @@
+Copyright (c) 2026 Mohamed AIT ABDELMALIK. All rights reserved.
+
+This software and its data (station names, coordinates, transfers, line tracks)
+are proprietary. No part may be copied, modified, redistributed, scraped or
+reused without prior written permission from the author.
+
+Third-party components (Leaflet, MapLibre GL JS, jsPDF, QRCode.js, Font Awesome,
+map tiles) remain under their own licenses.
