@@ -123,7 +123,7 @@ MSc Geoinformatics @ UH2C · Geospatial Data Science, GeoAI & ML · GIS & Remote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ait-abdelmalik-a7b468195/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohamedaitabdelmalik)
-[![x](https://x.com/MoAitAbdelmalik)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MoAitAbdelmalik)
 
 ---
 
